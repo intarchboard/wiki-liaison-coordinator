@@ -3,7 +3,7 @@
 As the IAB's charter, "[t]he IAB acts as representative of the interests of the IETF and the Internet Society in
 technical liaison relationships with other organizations concerned with standards and other technical
 and organizational issues relevant to the world-wide Internet." 
-That representation is carried out by liaison managers, who are selected from the community by the IAB.
+That representation is carried out by liaison managers (see also https://www.ietf.org/about/liaisons/), who are selected from the community by the IAB.
 Liaison managers are overseen by the IAB with the help of the IAB Liaison Coordinator.
 
 The IAB Liaison Coordinator role is usually executed by two IAB members, where one act as the primary contact and the as back-up.

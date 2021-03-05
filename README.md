@@ -4,4 +4,4 @@ As a first step the IAB has established a new Liaison Coordinator position. This
 
 This repo holds the working copy of the description of the new IAB Liaison Coordinator role. This text is supposed to be published in the IAB wiki when finalised. 
 
-The current job description of the IAB Liaison Shepherd role, which will be replaced when ready, can be found here: https://www.iab.org/wiki/index.php/IAB_Job_Description
+The current job description of the IAB Liaison Shepherd role, which will be replaced when ready, can be found here: https://www.iab.org/wiki/index.php/Liaison_Shepherd_Job_Description

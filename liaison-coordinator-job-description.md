@@ -20,7 +20,7 @@ statements.
 For more information about the procedures that govern IETF liaisons, can be found in RFC 4052 “IAB Liaison Management” and
 RFC 4053 (BCP 103) “Procedures for Handling Liaison Statements to and from the IETF.”
 
-Also there is a wiki about submitting and receiving liaison statement: <add link of page to create>
+There is also a wiki about submitting and receiving liaison statements: <add link of page to create>
 
 <ToDo: Create further wiki page about process of other SDOs and link here>
 
@@ -29,10 +29,10 @@ replies to all requests directly, rather than helping to forward any requests to
 
 ## Liaison Coordinator Tasks
 
-* Communication with the liaison managers as well as toward the rest of the IAB: The Liaison Coordinator has a bridging function between the liaison manager and the IAB. 
-* Reporting and frequent status check with thee liaison manager. This depends on how active the liaison relationship which varies widely. However, it is still recommended to check at least once a year, even if a liaison is other dormant. 
-* Oversight of the total and send liaison statement, e.g. to check that statement that need a reply get a reply.
-* Help with finding within the IETF experts when needed to handle a liaison statement. Usually working group chairs and ADs, e.g. when the statement is related to an active working group document, are the first landing point. However, if no active group exists, it’s recommended to with the rest of the IAB for people to involve as this is already a group of expert with a wide range of knowledge.
-* Help finding replacements for liaison managers. Usually the leaving liaison manager is another good source to involved. However, if no suitable person can be identified easily, the IAB might also send out a public call.
-* Hep establishing new liaison. If a new liaison is established, the rest of the IAB should be involved. The liaison manager might help with the processing or might help finding an expert that can help instead.
+* Handling communication between the liaison managers and the rest of the IAB.
+* Reporting and frequent status check with the liaison manager. This depends on how active a particular liaison relationship is, which can vary widely. It is recommended to check in at least once a year, even if a liaison is otherwise dormant. 
+* Overseeing the status of all liaison statements; e.g., checking that statements that need a reply get a reply.
+* Finding experts from within the IETF when needed to handle a liaison statement. These experts will usually be working group chairs and ADs, e.g., when the statement is related to an active working group document. If no active group or clear expert can be found, the responsibility falls back on the IAB as a whole, as a group of experts with a wide range of knowledge.
+* Finding replacements for liaison managers when they step down. The outgoing liaison manager will often be able to help with this. However, if no suitable person can be identified easily, the coordinator may recommend that the IAB sends out a public call.
+* Helping to establish new liaisons. If a new liaison is established, the rest of the IAB should be involved. The liaison coordinator will help lead the process or identify an expert who can perform this role.
 

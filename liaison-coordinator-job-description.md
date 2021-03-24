@@ -6,18 +6,18 @@ and organizational issues relevant to the world-wide Internet."
 That representation is carried out by liaison managers (see also https://www.ietf.org/about/liaisons/), who are selected from the community by the IAB.
 Liaison managers are overseen by the IAB with the help of the IAB Liaison Coordinator.
 
-The IAB Liaison Coordinator role is usually executed by two IAB members, where one act as the primary contact and the as back-up.
-However, it is oft course also possible to split up some of the tasked listed below as long as responsibilities are clearly assigned.
+The IAB Liaison Coordinator role is usually executed by two IAB members, where one acts as the primary contact and the other one as back-up.
+However, it is oft course also possible to split up some of the tasks listed below as long as responsibilities are clearly assigned.
 
 The IAB assigns the Liaison Coordinator role similar as other liaison position in its March pre-IETF meeting and therefore may change
-the assignment on a yearly basis. However, it is recommended to only switch over on person at a time to have a smoother transition.
+the assignment on a yearly basis. However, it is recommended to only switch over one person at a time to have a smoother transition.
 
 There is no requirement to have knowledge about each or even any of the associated organization that we maintain liaison for, given
-there is usually not a single person that has that know or potentially not even any person at the time on the IAB that can cover knowledge
-about certain other SDOs. However, it is useful for the role to have know about the liaison management process and handling of liaison
+there is usually not a single person that has that knowledge or potentially not even any person at the time on the IAB that can cover knowledge
+about some of SDOs at all. However, it is useful for the role to have knowledge about the liaison management process and handling of liaison
 statements. 
 
-For more information about the procedures that govern IETF liaisons, can be found in RFC 4052 “IAB Liaison Management” and
+More information about the procedures that govern IETF liaisons can be found in RFC 4052 “IAB Liaison Management” and
 RFC 4053 (BCP 103) “Procedures for Handling Liaison Statements to and from the IETF.”
 
 There is also a wiki about submitting and receiving liaison statements: <add link of page to create>
@@ -30,7 +30,7 @@ replies to all requests directly, rather than helping to forward any requests to
 ## Liaison Coordinator Tasks
 
 * Handling communication between the liaison managers and the rest of the IAB.
-* Reporting and frequent status check with the liaison manager. This depends on how active a particular liaison relationship is, which can vary widely. It is recommended to check in at least once a year, even if a liaison is otherwise dormant. 
+* Reporting and frequent status check with the liaison manager. This depends on how active a particular liaison relationship is, which can vary widely. It is recommended to check in at least once a year, even if a liaison is otherwise dormant. Other liaisons are quite active and e.g. have an own mailing list or frequent meeting (e.g. around each IETF meeting). The liaison coordination is recommended to join those mailing lists and meetings if suitable but may also decide to rely on direct reproting from the liaison manager instead. These reports should be provided to the IAB and published in the IAB minutes (if then contain actual news). 
 * Overseeing the status of all liaison statements; e.g., checking that statements that need a reply get a reply.
 * Finding experts from within the IETF when needed to handle a liaison statement. These experts will usually be working group chairs and ADs, e.g., when the statement is related to an active working group document. If no active group or clear expert can be found, the responsibility falls back on the IAB as a whole, as a group of experts with a wide range of knowledge.
 * Finding replacements for liaison managers when they step down. The outgoing liaison manager will often be able to help with this. However, if no suitable person can be identified easily, the coordinator may recommend that the IAB sends out a public call.

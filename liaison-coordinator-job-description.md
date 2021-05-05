@@ -38,7 +38,8 @@ requests to the right liaison manager or to the entire IAB.
 
 ## Liaison Coordinator Tasks
 
-* Handling communication between the liaison managers and the rest of the IAB.
+* Handling communication between the liaison managers and the rest of the IAB
+  in order to provide support and advice, specialy when handling difficult situations.
 * Performing status checks with and gathering reports from the liaison
   managers. This level of effort depends on how active a particular
   liaison relationship is, which can vary widely depending on the

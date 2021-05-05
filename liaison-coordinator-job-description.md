@@ -52,7 +52,7 @@ requests to the right liaison manager or to the entire IAB.
   should be provided to the IAB and published in the IAB minutes (if
   they contain actual news).
 * Overseeing the status of all liaison statements; e.g., checking that
-  statements that need a reply get a reply.
+  statements that need a reply get a reply. See also https://datatracker.ietf.org/liaison/
 * Finding experts from within the IETF when needed to handle a liaison
   statement. These experts will usually be working group chairs and
   area directors when the statement is related to an active working
